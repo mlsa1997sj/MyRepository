@@ -52,7 +52,7 @@ set circlecolors {white blue gray blue blue}
 set linkfgcolor blue
 set circleoutlinecolor SystemWindowText
 set web_browser {cmd /c start}
-set geometry(main) 1366x664+0+45
+set geometry(main) 1366x664+0+26
 set geometry(state) zoomed
 set geometry(topwidth) 1366
 set geometry(topheight) 225
